@@ -1,6 +1,6 @@
 # testing-project
 
-[Your Name] created this repo for the first time.
+The author created this repo for the first time.
 
 ## What is GitHub?
 
